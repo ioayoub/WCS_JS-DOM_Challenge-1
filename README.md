@@ -35,6 +35,6 @@ Nous allons, bien sûr, vous guider dans ce projet.
 
 ![img](_docs/text-color.png)
 
->En bas de page, un sélecteur de couleur est à votre disposition pour modifier la couleur de votre texte. A vous de mettre en place la logique.
+>En bas de page, un sélecteur est à votre disposition pour modifier la couleur de votre texte. A vous de mettre en place la logique.
 
 Bon courage ! 🔥
